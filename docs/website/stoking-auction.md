@@ -25,7 +25,7 @@ The person with the highest bid will get the pyro back and the future pyro, once
 
 ## Create Stoking Auction
 
-You can create your own stoking auction to [stoke](/tokens/pyro/stoke) your Pyro, in this case your Pyro will be the DonorB
+You can create your own stoking auction to [stoke](/tokens/pyro/stoking) your Pyro, in this case your Pyro will be the DonorB
 
 - Do Create Stoking Auction in stoking auction section or in the Pyro you want to stoke
 

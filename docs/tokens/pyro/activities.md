@@ -12,7 +12,7 @@ PYRO tokens can be intereacted with and customized.
 
 ### Play
 
-Each 24 hours you can play with your [Pyro](/tokens/pyro) to generate Embers [(MBRS)](/tokens/mbrs), the native MRC20 token used to pay for customizations provided by the core contracts.
+Each 24 hours you can play with your [Pyro](/category/pyro) to generate Embers [(MBRS)](/tokens/mbrs), the native MRC20 token used to pay for customizations provided by the core contracts.
 To play consume 1 hunger, you can use [MBRS](/tokens/mbrs) to recover hunger.
 
 ![play_pyro.png](/img/play_pyro.png)
@@ -73,14 +73,14 @@ A Pyro can be permanently leveled up by it's owner or an approved account throug
 ### Stoke
 
 New Pyros can also be created by stoking through a process known as "pyrogenesis".
-Pyrogenesis occurs when two Pyros [stoke](/tokens/pyro/stoke)(breed).
-In order to [stoke](/tokens/pyro/stoke) a dynamic fee of MRX based on donor Generation must be paid to the core contract which is then burned.
+Pyrogenesis occurs when two Pyros [stoke](/tokens/pyro/stoking)(breed).
+In order to [stoke](/tokens/pyro/stoking) a dynamic fee of MRX based on donor Generation must be paid to the core contract which is then burned.
 
 ![stoke.png](/img/stoke.png)
 
 ### Ignite
 
-When you [stoke](/tokens/pyro/stoke) two Pyros, you will need to wait for NextPyroGenesis, after that you can call ignite, it makes the new Pyro come
+When you [stoke](/tokens/pyro/stoking) two Pyros, you will need to wait for NextPyroGenesis, after that you can call ignite, it makes the new Pyro come
 You only need to ignite the DonorA
 Ignite needs to have 255 hunger
 

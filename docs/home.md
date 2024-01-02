@@ -9,9 +9,9 @@ dateCreated: 2021-12-11T22:47:41.743Z
 
 # PyroPets
 
-PyroPets [(PYRO)](/tokens/pyro) is an extensible, deflationary, completely open-source permanent MRC721 NFT collectable game deployed on the MetrixCoin blockchain.
+PyroPets [(PYRO)](/category/pyro) is an extensible, deflationary, completely open-source permanent MRC721 NFT collectable game deployed on the MetrixCoin blockchain.
 
-PyroPets uses [MetriMask](/metrimask) and PyroPets [website](/category/pyropets-website) to interact and safely transfer the [PYRO](/tokens/pyro) token
+PyroPets uses [MetriMask](/metrimask) and PyroPets [website](/category/pyropets-website) to interact and safely transfer the [PYRO](/category/pyro) token
 
 ![pyropets2.png](/img/pyropets2.png)
 

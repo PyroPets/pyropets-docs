@@ -26,39 +26,45 @@ MetriMask is a light wallet and transaction signing client for decentralized app
 
 3. Create your account.
 
-4. Add MRC20 [(MBRS)](/mbrs) token to MetriMask
+4. Add MRC20 [(MBRS)](/tokens/mbrs) token to MetriMask
 
-- ![addmbrs.png](/img/addmbrs.png)
+![addmbrs.png](/img/addmbrs.png)
 
 - Go to token and Add token
-  ![addmbrs_token.png](/img/addmbrs_token.png)
+
+![addmbrs_token.png](/img/addmbrs_token.png)
 
 - Add `fb26a19c8c75cc4a7dfc95260cd838bf204cf1af` in Contract Address
-  ![addmbrs_contract.png](/img/addmbrs_contract.png)
 
-5. Add MRC721 [(PYRO)](/pyro) token to MetriMask
+![addmbrs_contract.png](/img/addmbrs_contract.png)
 
-- ![addmbrs.png](/img/addmbrs.png)
+5. Add MRC721 [(PYRO)](/category/pyro) token to MetriMask
+
+![addmbrs.png](/img/addmbrs.png)
 
 - Go to NFT´S and Add token
-  ![addpyro.png](/img/addpyro.png)
+
+![addpyro.png](/img/addpyro.png)
 
 - Add `848b9ec4299dac31d21c5db87add813d0cfc58c5` in Contract Address
-  ![addpyro_contract.png](/img/addpyro_contract.png)
+
+![addpyro_contract.png](/img/addpyro_contract.png)
 
 ## **Transfer your tokens**
 
 ### Receive
 
 - To recieve your tokens, go to recieve
-  ![receive.png](/img/receive.png)
+
+![receive.png](/img/receive.png)
 
 - You will get you address and QR code, you can use them to recive your tokens
 
 ### Send
 
 - To send your token, go to send
-  ![send.png](/img/send.png)
+
+![send.png](/img/send.png)
 
 - You can transfer your Metrix (MRX) and your tokens (MBRS)
 
