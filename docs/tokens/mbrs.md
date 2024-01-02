@@ -1,5 +1,5 @@
 ---
-title: MBRS
+title: MBRS Token
 published: true
 date: 2022-01-01T23:59:45.458Z
 editor: markdown
