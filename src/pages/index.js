@@ -28,7 +28,7 @@ function HomepageHeader() {
 
 export default function Home() {
   return (
-    <Layout description='Description will go into a meta tag in <head />'>
+    <Layout description='Learn more about the PyroPets ecosystem.'>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
