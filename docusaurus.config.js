@@ -64,7 +64,7 @@ const config = {
       navbar: {
         title: 'PyroPets Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'PyroPets logo',
           src: 'img/pyro.png',
         },
         items: [
