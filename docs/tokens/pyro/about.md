@@ -35,7 +35,7 @@ There are planned extenstions for PyroPets that will increase the functionality 
 
 ## **How many different Pyros are there?**
 
-![pyros.png](/img/pyros.png)
+[![pyros.png](/img/pyros.png)](/img/pyros-5120.png)
 
 There are 32 sets of eyes and 32 snouts. This means there are 1,024 different combinations for Gen 0 Pyros. Since there can only ever be 16,384 Gen 0 Pyros, this means if all traits are equally distributed each Gen 0 Pyro would be 1 of 16, but due to the fact that this distribution may not be equal, certain traits may be more or less rare than others.
 
