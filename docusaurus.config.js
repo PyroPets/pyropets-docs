@@ -98,7 +98,7 @@ const config = {
               },
               {
                 label: 'MBRS Token',
-                to: '/tokens/mbrs',
+                to: '/tokens/mbrs/about',
               },
               {
                 label: 'Whitepaper',
