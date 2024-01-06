@@ -1,4 +1,5 @@
 ---
+sidebar_position: 2
 title: Activities
 published: true
 date: 2021-12-15T04:22:04.615Z

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: PYRO Token
 published: true
 date: 2022-01-01T23:26:42.697Z

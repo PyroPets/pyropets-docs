@@ -1,0 +1,8 @@
+{
+  "label": "MBRS",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "About MBRS tokens"    
+  }
+}

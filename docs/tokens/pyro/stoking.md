@@ -1,4 +1,5 @@
 ---
+sidebar_position: 3
 title: Stoking
 published: true
 date: 2022-02-04T18:13:17.178Z
