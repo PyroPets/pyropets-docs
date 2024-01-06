@@ -9,7 +9,7 @@ dateCreated: 2024-01-06T12:00:00.000Z
 
 # mbrs.exchange
 
-MBRS Exchange is the Pyro DAO's token buyback mechanism for MBRS.
+The Pyro DAO's token buyback mechanism for MBRS.
 
 You can get started exchanging your MBRS for MRX on [mbrs.exchange](https://mbrs.exchange)
 
@@ -21,7 +21,11 @@ The system is made up of two smart contracts which utilizes the Metrix DGP syste
 
 The system is active as long as the AutoGovernor is enrolled in the DGP Governance contract and the balance of the TokenBuyback contract is greater than 1 MRX.
 
+## How is the value of MBRS determined?
+
 The MBRS to MRX exchange rate is determined by the total supply of MBRS and the MRX balance of the TokenBuyback smart contract relative to the amount of MBRS held in the TokenBuyback smart contract.
+
+`MBRS per MRX = ((Total Supply - Locked) * 1e8) / Vault`
 
 ## Who controls mbrs.exchange?
 
