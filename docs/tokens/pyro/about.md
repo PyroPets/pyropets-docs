@@ -26,7 +26,7 @@ In order to generate a Generation 0 Pyro a fee of 100,000 MRX must be paid to th
 
 The core version of PyroPets allows for generating, customizing, stoking(breeding), playing with, feeding and auctioning Pyros.
 
-Playing with Pyros generates Embers [(MBRS)](/tokens/mbrs), the native MRC20 token used to pay for customizations provided by the core contracts.
+Playing with Pyros generates Embers [(MBRS)](/tokens/mbrs/about), the native MRC20 token used to pay for customizations provided by the core contracts.
 
 Pyros can be burned in order to gather Embers from unwanted Pyros.
 

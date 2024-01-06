@@ -26,7 +26,7 @@ MetriMask is a light wallet and transaction signing client for decentralized app
 
 3. Create your account.
 
-4. Add MRC20 [(MBRS)](/tokens/mbrs) token to MetriMask
+4. Add MRC20 [(MBRS)](/tokens/mbrs/about) token to MetriMask
 
 ![addmbrs.png](/img/addmbrs.png)
 

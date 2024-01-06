@@ -13,8 +13,8 @@ PYRO tokens can be intereacted with and customized.
 
 ### Play
 
-Each 24 hours you can play with your [Pyro](/category/pyro) to generate Embers [(MBRS)](/tokens/mbrs), the native MRC20 token used to pay for customizations provided by the core contracts.
-To play consume 1 hunger, you can use [MBRS](/tokens/mbrs) to recover hunger.
+Each 24 hours you can play with your [Pyro](/category/pyro) to generate Embers [(MBRS)](/tokens/mbrs/about), the native MRC20 token used to pay for customizations provided by the core contracts.
+To play consume 1 hunger, you can use [MBRS](/tokens/mbrs/about) to recover hunger.
 
 ![play_pyro.png](/img/play_pyro.png)
 
@@ -32,7 +32,7 @@ To play consume 1 hunger, you can use [MBRS](/tokens/mbrs) to recover hunger.
 
 ### Feed
 
-To recover hunger, use your [MBRS](/tokens/mbrs) the ratio is 1 MBRS = 1 hunger.
+To recover hunger, use your [MBRS](/tokens/mbrs/about) the ratio is 1 MBRS = 1 hunger.
 
 ![feed_1.png](/img/feed_1.png)
 
